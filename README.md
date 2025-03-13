@@ -52,8 +52,11 @@ This **Power BI HR Analytics Dashboard** provides deep insights into employee at
 
 ## 📈 **Why This Dashboard is Powerful?**
 ✅ **Data-Driven HR Decisions:** Helps HR teams analyze trends and take action 📊
+
 ✅ **Identify High-Risk Groups:** Pinpoint demographics with the highest attrition 📌
+
 ✅ **Optimize Workforce Strategy:** Align retention efforts with job roles & salary bands 🎯
+
 ✅ **User-Friendly Visualization:** Interactive, dynamic, and insightful 💡
 
 ---
