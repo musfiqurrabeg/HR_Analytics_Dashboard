@@ -26,11 +26,11 @@ This **HR Analytics Dashboard** provides deep insights into employee attrition, 
 - 📚 **Other Fields:** 4.6%
 
 ### 📌 **Attrition By Age Group**
-- 🔹 **26-35 Years:** 112 employees
-- 🔹 **18-25 Years:** 44 employees
-- 🔹 **36-45 Years:** 35 employees
-- 🔹 **46-55 Years:** 22 employees
-- 🔹 **55+ Years:** 6 employees
+- **26-35 Years:** 112 employees
+- **18-25 Years:** 44 employees
+- **36-45 Years:** 35 employees
+- **46-55 Years:** 22 employees
+- **55+ Years:** 6 employees
 
 ### 📌 **Attrition Based on Salary**
 - 🏦 **Earning Up to 5K:** 163 employees
