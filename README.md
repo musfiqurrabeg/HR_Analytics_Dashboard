@@ -3,6 +3,8 @@
 ## 📊 Overview
 This **Power BI HR Analytics Dashboard** provides deep insights into employee attrition, demographics, salaries, and job roles. It helps HR professionals make data-driven decisions to improve employee retention and workforce planning.
 
+![dashboard](https://github.com/user-attachments/assets/6f6a067e-4e75-4b2e-ad19-24a560f76410)
+
 ---
 
 ## 🔥 Key Insights
